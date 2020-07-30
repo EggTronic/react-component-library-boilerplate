@@ -6,6 +6,12 @@
 
 `npm run test`
 
+```
+You can create a xxx.test.tsx under your component folder as 
+   src/components/exampleComponent/exampleComponent.test.tsx
+to specify test
+```
+
 #### 🔧 Building
 
 `npm run build`
@@ -17,7 +23,7 @@
 ```
 You can create a xxx.stories.tsx under your component folder as 
    src/components/exampleComponent/exampleComponent.stories.tsx
-To see the demo in storybook
+to see the live demo in storybook
 ```
 
 ## License
