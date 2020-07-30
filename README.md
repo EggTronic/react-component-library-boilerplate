@@ -1,5 +1,11 @@
 # Template for creating react component based on styled-components
 
+## Usage
+Simply git clone this repo
+```
+git clone https://github.com/EggTronic/react-component-library-boilerplate.git
+```
+
 ## 🔨 Development
 
 #### 🧪 Testing
