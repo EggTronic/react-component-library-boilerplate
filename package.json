@@ -31,7 +31,12 @@
     "Typescript",
     "boilerplate",
     "template",
-    "Storybook"
+    "Storybook",
+    "styled-component",
+    "eslint",
+    "prettier",
+    "jest",
+    "enzyme"
   ],
   "author": "EggTronic",
   "license": "MIT",
