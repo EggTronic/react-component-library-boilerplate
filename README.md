@@ -22,6 +22,14 @@ to specify test
 
 `npm run build`
 
+#### 🔧 Lint Check
+
+`npm run lint`
+
+#### 🔧 Lint Auto Fix
+
+`npm run fix`
+
 #### 🔖 Storybook (support hot-reload for development)
 
 `npm run storybook`
