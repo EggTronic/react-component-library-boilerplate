@@ -20,8 +20,6 @@ You can create a xxx.stories.tsx under your component folder as
 To see the demo in storybook
 ```
 
-#### 📝 Props
-
 ## License
 
 MIT © [EggTronic](https://github.com/eggtronic)
